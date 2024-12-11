@@ -18,7 +18,7 @@ NYTimes Demo is a Swift project that showcases the use of the Most Popular Artic
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/DroidFxGit/NYTimes_Demo.git)
+   git clone https://github.com/DroidFxGit/NYTimes_Demo.git
    ```
 2. Open the project file:
    ```
